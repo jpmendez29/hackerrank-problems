@@ -23,8 +23,6 @@ Si estás resolviendo los retos por tu cuenta, ¡intenta primero hacerlo solo! �
 
 ---
 
-## 🌍 English Version
-
 # HackerRank Solutions 🚀
 
 This repository contains my solutions to **HackerRank** challenges.  
