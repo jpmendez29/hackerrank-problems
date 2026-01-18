@@ -16,7 +16,7 @@ Given an array of positive integers, return the number of elements that are **st
 [100, 200, 150, 300]
 
 **Output**
-\n 2
+2
 
 **Explanation**
 - Day 0: 100 → skipped
